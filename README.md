@@ -17,7 +17,7 @@ El proyecto está organizado de la siguiente manera:
 - `index.html`: estructura del juego.
 - `style.css`: estilos visuales y diseño de la interfaz.
 - `script.js`: toda la lógica del juego (movimiento, colisiones, puntaje, etc.).
-- Carpeta `audios/` → contiene efectos de sonido.
+- Carpeta `audios/`: contiene efectos de sonido.
 
 ## Tecnologías utilizadas
 - HTML5 (Canvas)
