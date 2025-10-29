@@ -25,4 +25,4 @@ El proyecto está organizado de la siguiente manera:
 - JavaScript (vanilla, sin librerías externas)
 
 ## Autor
-Proyecto desarrollado por *Fátima Cruz Guerrero*.
+Proyecto desarrollado por Fátima Cruz Guerrero.
